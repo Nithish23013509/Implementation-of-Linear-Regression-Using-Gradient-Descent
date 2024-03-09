@@ -61,7 +61,9 @@ Data Information
 
 Value of X
 ![311408478-d4da16e6-0ece-4ab1-8c5f-c4b197c7a512](https://github.com/Nithish23013509/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149038138/9a89556b-6760-4c2d-a8a1-31315cb246ab)
+
 Predicted Value
+
 ![311408489-6364cf72-a2a4-4e81-9044-4aec92c8112a](https://github.com/Nithish23013509/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149038138/b16ea58a-3f85-4a05-abc6-8b54f9670a67)
 
 
