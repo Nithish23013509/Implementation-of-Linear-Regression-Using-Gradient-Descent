@@ -55,7 +55,9 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 Data Information
-![311408466-e8b4b890-3dbe-46da-9b18-5b34ebaf02a0](https://github.com/Nithish23013509/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149038138/b74ba000-fbef-4516-9d80-e7e3a0f866e2)
+![311408466-e8b4b890-3dbe-46da-9b18-5b34ebaf02a0](https://github.com/Nithish23013509/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149038138/72e4842d-2658-4b93-8e7d-c60a28b0e45c)
+
+
 Value of X
 ![311408478-d4da16e6-0ece-4ab1-8c5f-c4b197c7a512](https://github.com/Nithish23013509/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149038138/9a89556b-6760-4c2d-a8a1-31315cb246ab)
 Predicted Value
